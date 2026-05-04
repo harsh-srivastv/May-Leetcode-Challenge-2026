@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0796-rotate-string) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
