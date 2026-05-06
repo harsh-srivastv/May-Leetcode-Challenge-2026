@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
@@ -34,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
