@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3660-jump-game-ix) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
+| [3660-jump-game-ix](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
 | ------- |
