@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0788-rotated-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
+## Hash Table
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
