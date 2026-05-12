@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1861-rotating-the-box](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2553-separate-the-digits-in-an-array) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
