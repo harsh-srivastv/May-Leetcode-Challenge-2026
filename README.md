@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1914-cyclically-rotating-a-grid) |
 | [2540-minimum-common-value](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1306-jump-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
