@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/3660-jump-game-ix) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/harsh-srivastv/May-Leetcode-Challenge-2026/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
